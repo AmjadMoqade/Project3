@@ -4,3 +4,5 @@ Operating System
 Database
 Software Engineering
 amjad moqade
+maicroprocessor
+circuit analysis
