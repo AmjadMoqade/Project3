@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523354761 source:c:\users\amjad\desktop\c\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"String.h"
+	"Cursor.h"
+
+1522508863 c:\users\amjad\desktop\c\project1\string.h
+
+1523355312 c:\users\amjad\desktop\c\project1\cursor.h
+	"String.h"
+
+1523354761 source:c:\users\lenovo y700 isk\desktop\1160695\jop\c\project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"String.h"
+	"Cursor.h"
+
+1522508863 c:\users\lenovo y700 isk\desktop\1160695\jop\c\project1\string.h
+
+1523355312 c:\users\lenovo y700 isk\desktop\1160695\jop\c\project1\cursor.h
+	"String.h"
+
